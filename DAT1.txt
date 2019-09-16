@@ -1,0 +1,16 @@
+     I am Pujan Thapa, a Junior Computer Science major at Howard 
+     University. I am originally from Nepal, where I still have my family.  
+     I grew up in a small rural town in the central east region of Nepal.  
+     At the age of 10, I passed the entrance exam of one of the top schools 
+     in Nepal.  I was the first one from my family and my old school to be 
+     admitted to that "big" school.  That was the first time I made my 
+     family proud.  
+     My new school was a residential school where I was away from home.  I 
+     took my first coding class in 8th grade (senior year of middle 
+     school). I started with QBASIC.  Around the same time, I started 
+     learning HTML and CSS.  I designed website layouts in HTML and made a 
+     library application in QBASIC.  After 9 years in my school, I took a 
+     gap year and prepared for SAT, TOEFL, college applications, and US 
+     visa process.  Eventually, I applied and got admission at Howard with 
+     a full-ride scholarship.  That was the second time I made my family 
+     proud. 

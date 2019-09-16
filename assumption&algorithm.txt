@@ -1,0 +1,17 @@
+Requirements/Assumptions for the program
+
+-	The first line of the input will contain two integers, first for left margin and second for right margin. 
+-	The other lines will have the text that is supposed to be formatted. 
+-	I have assumed that there are total 80 characters maximum per line. 
+-	I have assumed that the words in a line are not more than 80 characters.
+
+Algorithm:
+1)	Read the first line and get left and right margin. Continue with other lines. 
+2)	For other lines, split the line to words. 
+3)	Put the left margin and loop through the words. 
+4)	Print and write it to the output file with one space between each word until the right margin is reached. 
+5)	If there is a period (.) then put two spaces, also update the margin position.
+6)	If right margin is achieved, repeat 3 and 4.
+7)	If the input file reaches a new line, then print a empty line and write a line break in the output file. It is a new paragraph. 
+      
+
